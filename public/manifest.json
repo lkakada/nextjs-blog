@@ -1,0 +1,27 @@
+{
+    "short_name": "nextjstagme",
+    "name": "nextjs tag me",
+    "description": "NextJS app with offline support",
+    "lang": "en-GB",
+    "icons": [
+        {
+            "src": "/icons/playstore.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/icons/playstore.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/playstore.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "theme_color": "#3f51b5"
+}
